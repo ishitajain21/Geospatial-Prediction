@@ -1,4 +1,3 @@
-Here's a suggested GitHub README for the project:
 
 # Geospatial Prediction of Agriculture and Precipitation
 
